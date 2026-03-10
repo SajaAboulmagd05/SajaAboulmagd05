@@ -5,12 +5,18 @@
 
 <br/>
 
-# Hey there! I'm **Saja Aboulmagd** 👩‍💻
+# Hey there! I'm **Saja Aboulmagd** 
 
 ### 🎯 Software Engineering Passionate · 📊 Data Science Enthusiast · 🌟 Eternal Explorer
 
-<br/>
 
+### Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saja-aboulmagd-66a745289)
+[![Gmail](https://img.shields.io/badge/Gmail-A5D6A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajanabil74@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FFCC80?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SajaAboulmagd05)
+
+<br/>
 </div>
 
 ---
@@ -25,6 +31,28 @@
 
 When I'm not coding, you'll find me:
 🍳 Cooking up something delicious · 📚 Lost in a good book · 🎾 On the tennis court · 🎨 Creating handmade crafts
+
+---
+## 🛠️ Tech Stack
+<div align="left">
+  
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
+
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=dotnet,postman" />
+
+### Databases & More
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,github,vscode" />
+
+## 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=nodejs,r,python" />
+
+### Diving into the following Python Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
 ---
 
