@@ -13,7 +13,7 @@
 ### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saja-aboulmagd-66a745289)
-[![Gmail](https://img.shields.io/badge/Gmail-A5D6A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajanabil74@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-A5D6A7?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=sajanabil74@gmail.com)
 
 <br/>
 </div>
