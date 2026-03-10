@@ -1,3 +1,7 @@
+<div align="center">
+<!-- Animated slogan -->
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Dare+to+Dream+%E2%9C%A8;Build+with+Purpose+%F0%9F%9A%80;Never+Stop+Exploring+%F0%9F%8C%8D" alt="Typing SVG" />
+<br/>
 ## Hi there 👋
 
 <!--
