@@ -14,7 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saja-aboulmagd-66a745289)
 [![Gmail](https://img.shields.io/badge/Gmail-A5D6A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajanabil74@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFCC80?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SajaAboulmagd05)
 
 <br/>
 </div>
