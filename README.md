@@ -1,20 +1,37 @@
 <div align="center">
+
 <!-- Animated slogan -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Dare+to+Dream+%E2%9C%A8;Build+with+Purpose+%F0%9F%9A%80;Never+Stop+Exploring+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&color=7EC8E3&center=true&vCenter=true&width=600&lines=Dare+to+Dream;Build+with+Purpose;Never+Stop+Exploring" alt="Typing SVG" />
+
 <br/>
-## Hi there 👋
 
-<!--
-**SajaAboulmagd05/SajaAboulmagd05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! I'm **Saja Aboulmagd** 👩‍💻
 
-Here are some ideas to get you started:
+### 🎯 Software Engineering Passionate · 📊 Data Science Enthusiast · 🌟 Eternal Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```txt
+🎓  Computer Engineering student & lifelong learner
+📊  In love with data — yes, I literally adore tables 🗃️
+🌱  Always exploring new technologies & ideas
+```
+
+When I'm not coding, you'll find me:
+🍳 Cooking up something delicious · 📚 Lost in a good book · 🎾 On the tennis court · 🎨 Creating handmade crafts
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SajaAboulmagd05&show_icons=true&theme=tokyonight&hide_border=true&title_color=7EC8E3&icon_color=7EC8E3" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaAboulmagd05&layout=compact&theme=tokyonight&hide_border=true&title_color=7EC8E3" height="165"/>
+</div>
+
