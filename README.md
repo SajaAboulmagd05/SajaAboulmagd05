@@ -29,9 +29,14 @@ When I'm not coding, you'll find me:
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SajaAboulmagd05&show_icons=true&theme=tokyonight&hide_border=true&title_color=7EC8E3&icon_color=7EC8E3" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaAboulmagd05&layout=compact&theme=tokyonight&hide_border=true&title_color=7EC8E3" height="165"/>
-</div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajaAboulmagd05&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SajaAboulmagd05&theme=tokyonight" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SajaAboulmagd05&theme=tokyonight" height="165"/>
+
+
+---
